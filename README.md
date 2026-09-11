@@ -6,4 +6,4 @@
   * Data Science Graduate at Telkom University.
 
 * **How to reach me**
-  * 📧 Email: [email]
+  * Email: zaki.surel@gmail.com
